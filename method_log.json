@@ -1,0 +1,14 @@
+{
+    "0409_1057": "고해상도 모델 --> 저해상도 모델 전이학습",
+    "0409_1718_transfer": "고해상도 모델(high) --> 저해상도 모델 전이학습(real transfer)",
+    "d1_high_quality_train": "저해상도 train (전이할 모델) convnext_large",
+    "d2_low_quality_swin": "저해상도 Model Test, Swin-large",
+    "d2_low_quality_swinv2": "저해상도 Model Test, Swin v2-giant 224",
+    "d2_low_quality_vitH": "저해상도 Model Test, vit_huge_patch14_224",
+    "deit3_large_patch16_224": "저해상도 Model Test, deit3_large_patch16_224",
+    "day3_swin_large_patch16_224_kfold": "저해상도 Model Test, swin-large kfold ensemble 시도",
+    "0416_swin_large_patch16_224_KD_teacher": "고해상도 학습(Teacher) --> 저해상도 학습(distillation student)",
+    "0416_swin_large_patch16_224_KD_student": "고해상도 학습(Teacher) --> 저해상도 학습(distillation student)",
+    "0416_swin_large_patch4_224_KD_student": "고해상도 학습(Teacher, convNext_base) --> 저해상도 학습(student, swin_large_v2), KD",
+    "0416_swinv2_large_KD_student": "고해상도 학습(Teacher, convNext_base) --> 저해상도 학습(student, swin_large_v2), KD"
+}

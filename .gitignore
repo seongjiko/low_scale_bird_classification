@@ -1,0 +1,11 @@
+/train
+/test
+/upscale_train
+/figures
+/models
+/drive
+__pycache__
+__pycache__
+__pycache__
+.config/
+/logs
